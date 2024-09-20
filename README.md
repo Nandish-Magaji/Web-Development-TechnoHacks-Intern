@@ -1,9 +1,7 @@
-# Hello There! 
-# Just a basic webpages!
+🧑🏻‍💻
+Hello There!👋🏻
+Just _basic web pages!_
 
-# Important** This is free--to use as for Educational Purposes!
+🌟**Important** This is _free_ to use for _Educational Purposes!_✅
 
-# Internship organised by --> @TechnoHacks-Intern
-
-
-<!-- Just a Basic Conversion webpage -->
+🚨 Internship organised by --> ***@TechnoHacks-Intern***
